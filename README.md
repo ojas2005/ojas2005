@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ojas Tiwari
+# Hiii, I'm Ojas
 
 ### 🚀 Full-Stack .NET Developer | Microservices Architect | AI Enthusiast
 
