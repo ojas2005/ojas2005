@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hiii, I'm Ojas
+# Hiii, I'm Ojas🙋🏻‍♂️
 
-### 🚀 Full-Stack .NET Developer | Microservices Architect | AI Enthusiast
+### Full-Stack .NET Developer | Microservices Architect | AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-tiwari-122402253)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas2005)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate **Full-Stack .NET Developer** from India with expertise in building **production-grade microservices architectures**. Recently completed my **B.Tech in Computer Science** from GLA University and the **Capgemini Analyst A4 .NET Developer training** (June 2026).
 
@@ -28,7 +28,7 @@ I specialize in:
 
 ---
 
-## 💼 Professional Experience
+## 🧑🏻‍💻 Professional Experience
 
 ### **Capgemini - .NET Developer Trainee**
 *December 2025 - Jun 2026*
