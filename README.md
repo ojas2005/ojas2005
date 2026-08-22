@@ -231,7 +231,7 @@ Real-time traffic violation detection with an automated **digital challan** syst
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════ EDUCATION ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=Education%20%26%20Certifications&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+
 
 **🎓 B.Tech, Computer Science** — GLA University, Mathura *(Graduated May 2026)*
 *Focus: Full-Stack Development · Cloud Computing · AI/ML*
@@ -267,12 +267,7 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ojas2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=ojas2005&theme=tokyonight&hide_border=true&background=1a1b27" height="170" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ojas2005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=10" width="95%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas2005&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" width="95%" />
 
