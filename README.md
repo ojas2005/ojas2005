@@ -3,6 +3,14 @@
 
 <div align="center">
 
+<table border="0"><tr>
+<td align="center" width="40%">
+
+<img src="./assets/ojas-ascii.svg" width="100%" alt="ASCII portrait of Ojas Tiwari" />
+
+</td>
+<td align="center" width="60%">
+
 <a href="https://github.com/ojas2005">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ojas+%F0%9F%91%8B;Analyst+%40+Capgemini;Full-Stack+.NET+Developer;Microservices+%26+Cloud+Architecture;Building+Agents+with+LangGraph;Turning+coffee+into+scalable+systems" alt="Typing SVG" />
 </a>
@@ -17,6 +25,9 @@
 <img src="https://komarev.com/ghpvc/?username=ojas2005&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/ojas2005?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers" />
 <img src="https://img.shields.io/github/stars/ojas2005?label=Total%20Stars&style=for-the-badge&color=f7768e&labelColor=1a1b27" alt="Stars" />
+
+</td>
+</tr></table>
 
 </div>
 
@@ -77,7 +88,7 @@ B.Tech CS from **GLA University** (2026), now shipping industrial full-stack pro
 
 - Completed an intensive 5-month training + certification track (A4 .NET Developer)
 - Shipped **3 production-grade projects** deployed to Azure
-- Designed a **7-microservice LMS** with distributed messaging
+- Designed an **8-service microservices LMS** behind a YARP gateway
 - Cut development time **~30%** using AI tooling (Copilot, Claude)
 - Implemented enterprise auth: **JWT + Google OAuth 2.0 + PBKDF2**
 
@@ -101,20 +112,20 @@ B.Tech CS from **GLA University** (2026), now shipping industrial full-stack pro
 
 <img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Microservices" />
 
-**7 independent services** — Auth · Course · Content · Enrollment · Assessment · Progress · Review
+**8 independent services** — Identity · Registration · Courses · Curriculum · Exams · Reviews · Tracking · Analytics
 
 ```
-Backend:   .NET 8 · ASP.NET Core · EF Core 8 · SQL Server
-Gateway:   YARP reverse proxy
+Backend:   .NET 8 · ASP.NET Core · EF Core 8
+Database:  MySQL (Pomelo provider) — schema per service
+Gateway:   YARP reverse proxy, single public entry point
 Frontend:  React dashboards + Angular admin panel
-Messaging: MassTransit + RabbitMQ (event-driven)
-Cloud:     Azure Blob Storage · Docker · Redis (5-min TTL)
-Auth:      PBKDF2 · JWT (24h) · Google OAuth 2.0
+Auth:      ASP.NET Identity · JWT bearer · Google OAuth 2.0
+Tests:     NUnit + Moq · Dockerfile per service
 ```
 
-- Event-driven choreography between services — no chatty sync calls
-- QuestPDF certificate generation streamed to Azure Blob
-- Redis caching layer on read-heavy course endpoints
+- Schema-per-service ownership — no service reads another's tables
+- Gateway is the only public surface, so topology can change without breaking clients
+- `Learnify.Core` holds contracts only; business rules stay in the service that owns them
 
 [![Backend](https://img.shields.io/badge/Backend-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas2005/Learnify)
 [![Frontend](https://img.shields.io/badge/Frontend-bb9af7?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ojas2005/LearnifyFrontend)
@@ -129,18 +140,21 @@ Auth:      PBKDF2 · JWT (24h) · Google OAuth 2.0
 
 <br/>
 
-AI-assisted hiring platform that turns raw resumes into searchable, ranked candidate data.
+Multi-agent hiring platform that screens, scores and ranks candidates — and explains every recommendation.
 
 ```
-Backend:  .NET Web API  ·  MVC frontend
-AI:       Azure Document Intelligence  ·  Azure OpenAI embeddings
-Flow:     Upload → Extract → Parse → Embed → Match
-Auth:     Self-issued JWT (role-based: Recruiter / Candidate)
+Backend:   .NET 9 · ASP.NET Core (Web API + MVC) · Clean Architecture
+Agents:    Semantic Kernel — Parser · Matching · Interview · Ranking · Reviewer
+AI:        Azure OpenAI (GPT-4o + embeddings) · Document Intelligence
+Grounding: RAG via Azure AI Search against approved hiring criteria
+Data:      Azure Cosmos DB · Blob Storage · Key Vault · Entra ID
+Tests:     xUnit — 37 tests, deterministic offline fallbacks
 ```
 
-- Document Intelligence extracts structured fields from unstructured PDFs
-- Embedding-based semantic matching between candidates and job descriptions
-- Separate recruiter and candidate portals behind role-based JWT auth
+- Five specialised agents instead of one giant prompt, each with a single job
+- RAG grounds every evaluation in approved criteria, not model guesswork
+- A reviewer agent checks fairness and consistency before results reach the recruiter
+- Full audit trail on every AI decision; core logic is Azure-independent and runs offline
 
 </details>
 
@@ -269,7 +283,7 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas2005&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" width="95%" />
+<img src="https://ghchart.rshah.org/7aa2f7/ojas2005" alt="Ojas's GitHub contribution graph" width="95%" />
 
 <details>
 <summary><b>📊 More stats</b></summary>
