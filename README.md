@@ -257,9 +257,9 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 | Certification | Organization | Date |
 |---|---|---|
-| Analyst A4 — .NET Developer Training | Capgemini | Jun 2026 |
-| Build Your First Agent Workshop | Microsoft Azure AI Foundry | 2025 |
-| AWS Cloud Computing Fundamentals | Technical Guftgu | Aug 2024 |
+| Claude Certified Associate - Foundations | Anthropic | Sep 2026 |
+| Claude Certified Developer - Foundations | Anthropic | Sep 2026 |
+| Azure Fundamentals | Microsoft | Jul 2026 |
 | ML for IIoT · IIoT Communication · Smart Industrial Connectivity · Data Science · Intro to IoT | GLA University | Feb 2025 |
 
 </details>
@@ -270,7 +270,7 @@ Real-time traffic violation detection with an automated **digital challan** syst
 <br/>
 
 - 🥇 **Government Science Exhibition Winner** — Mathura, 2023, for the Smart Traffic Management System
-- 🎮 **Esports Event Organizer** — co-organized tournaments in partnership with **Jio Games**
+- 🎮 **Esports Player and Event Organizer** — Won many Esports events and co-organized tournaments in partnership with **Jio Games**
 
 </details>
 
