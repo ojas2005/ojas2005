@@ -257,6 +257,7 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 | Certification | Organization | Date |
 |---|---|---|
+| Claude Certified Architect - Foundations | Anthropic | Sep 2026 |
 | Claude Certified Associate - Foundations | Anthropic | Sep 2026 |
 | Claude Certified Developer - Foundations | Anthropic | Sep 2026 |
 | Azure Fundamentals | Microsoft | Jul 2026 |
