@@ -1,15 +1,15 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=230&section=header&text=Ojas%20Tiwari&fontSize=62&fontColor=c0caf5&animation=twinkling&fontAlignY=34&desc=Full-Stack%20.NET%20Developer%20%7C%20Microservices%20%7C%20Agentic%20AI&descSize=18&descAlignY=54" />
-
 <div align="center">
 
-<table border="0"><tr>
-<td align="center" width="40%">
+# Ojas Tiwari
 
-<img src="./assets/ojas-ascii.svg" width="100%" alt="ASCII portrait of Ojas Tiwari" />
+**Full-Stack .NET Developer · Microservices · Agentic AI**
 
-</td>
-<td align="center" width="60%">
+<img src="./assets/ojas-terminal.gif" width="100%" alt="Animated ASCII portrait of Ojas with a terminal boot sequence: Analyst at Capgemini, Full-Stack .NET Developer, curiosity initialized, coffee dependency resolved, work-life balance compiling." />
+
+[About](#whoami) · [Experience](#experience) · [Projects](#featured-projects) · [Stack](#tech-arsenal) · [Education](#education--certifications) · [Stats](#github-analytics) · [Contact](#get-in-touch)
+
+<sub>The portrait is made of actual characters. The character development is still in progress.</sub><br/>
+<sub><a href="./assets/ojas-terminal-static.png">Still version</a> · <a href="./assets/ojas-portrait.txt">Inspect the ASCII</a></sub>
 
 <a href="https://github.com/ojas2005">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ojas+%F0%9F%91%8B;Analyst+%40+Capgemini;Full-Stack+.NET+Developer;Microservices+%26+Cloud+Architecture;Building+Agents+with+LangGraph;Turning+coffee+into+scalable+systems" alt="Typing SVG" />
@@ -26,15 +26,18 @@
 <img src="https://img.shields.io/github/followers/ojas2005?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers" />
 <img src="https://img.shields.io/github/stars/ojas2005?label=Total%20Stars&style=for-the-badge&color=f7768e&labelColor=1a1b27" alt="Stars" />
 
-</td>
-</tr></table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+> **Choose your side quest:** hiring? Start with [experience](#experience). Building something? Open [projects](#featured-projects). Debugging? The duck below has concerningly good advice.
+
+
+---
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=whoami&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+## whoami
+
+*Software engineer. Part-time distributed-systems therapist. Full-time “one last commit” enthusiast.*
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
 
@@ -59,10 +62,27 @@ B.Tech CS from **GLA University** (2026), now shipping industrial full-stack pro
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
+
+
+<details>
+<summary><strong>🦆 Open the incident report: two original GIFs, zero useful stack traces</strong></summary>
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="./assets/works-on-my-machine.gif"><img src="./assets/works-on-my-machine.gif" width="100%" alt="Deployment joke: all local tests pass while production moves from confusion to a 404; the developer says the working machine is in their heart."/></a><br/><strong>Environment parity is a love language.</strong></td>
+<td width="50%" align="center"><a href="./assets/duck-debugger.gif"><img src="./assets/duck-debugger.gif" width="100%" alt="An ASCII rubber duck asks whether you checked the logs, the other logs, and read the error, then charges one bread."/></a><br/><strong>Senior consultant. Paid in breadcrumbs.</strong></td>
+</tr>
+</table>
+
+These local GIFs play twice, then stop. Your CPU did not sign up for a second job.
+
+</details>
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=Experience&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+## Experience
+
+*The part where “it works on my machine” has to become “it works on the client’s machine.”*
 
 <details open>
 <summary><b>🏢 Analyst — Capgemini &nbsp;·&nbsp; <i>Jul 2026 – Present</i></b></summary>
@@ -94,13 +114,15 @@ B.Tech CS from **GLA University** (2026), now shipping industrial full-stack pro
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=Featured%20Projects&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+## Featured projects
+
+*Things I built instead of maintaining a reasonable number of browser tabs.*
 
 <div align="center">
-<i>Click any project to expand ⤵</i>
+<i>Click a project to open its case file. No NDA. No 47-slide deck. ⤵</i>
 </div>
 
 <br/>
@@ -111,6 +133,8 @@ B.Tech CS from **GLA University** (2026), now shipping industrial full-stack pro
 <br/>
 
 <img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Microservices" />
+
+> Eight services. Because apparently one place for a bug to hide was not enough.
 
 **8 independent services** — Identity · Registration · Courses · Curriculum · Exams · Reviews · Tracking · Analytics
 
@@ -139,6 +163,8 @@ Tests:     NUnit + Moq · Dockerfile per service
 <summary><b>🤖 Intelligent Recruitment Assistant — AI Resume Pipeline &nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-e0af68?style=flat-square&labelColor=1a1b27" /></b></summary>
 
 <br/>
+
+> Five agents, one hiring pipeline. Finally, a group project where everyone has an assigned job.
 
 Multi-agent hiring platform that screens, scores and ranks candidates — and explains every recommendation.
 
@@ -170,8 +196,9 @@ Caching:  IMemoryCache
 ```
 
 - Clean **N-Tier** split: Presentation → Business → Data Access → Database
-- Generic domain model handling **14+ unit types** without per-unit branching
-- Generic repository pattern · global exception middleware · Swagger UI
+- Generic domain model handling **14+ unit types** without per-unit branching- Generic repository pattern · global exception middleware · Swagger UI
+
+> Converts units. Still cannot convert “almost done” into an accurate ETA.
 
 [![Backend](https://img.shields.io/badge/Backend-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas2005/QuantityManagementApp)
 [![Frontend](https://img.shields.io/badge/Frontend-bb9af7?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ojas2005/QuantityManagementApp_Frontend)
@@ -186,6 +213,8 @@ Caching:  IMemoryCache
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
+> Teamwork, matchmaking and a REST API. The backend has fewer rage-quits.
+
 Connects esports **players, organizers and sponsors** in one place — player profiles, event discovery, sponsorship forms, RESTful API and a mobile-first responsive UI.
 
 </details>
@@ -198,14 +227,18 @@ Connects esports **players, organizers and sponsors** in one place — player pr
 `Raspberry Pi` `Python` `OpenCV` `IR Sensors` `Machine Learning`
 
 Real-time traffic violation detection with an automated **digital challan** system.
+
+> The only project here that can turn a bad decision into a challan.
 🏆 **Winner — Government Science Exhibition, Mathura (2023)**
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=Tech%20Arsenal&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+## Tech arsenal
+
+*Tools I use to solve problems. Occasionally, tools I use to solve problems caused by the other tools.*
 
 <div align="center">
 
@@ -242,9 +275,13 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 <!-- ═══════════════════════════ EDUCATION ═══════════════════════════ -->
+
+## Education & certifications
+
+*Yes, I collect certifications. No, they do not make CSS center itself.*
 
 
 **🎓 B.Tech, Computer Science** — GLA University, Mathura *(Graduated May 2026)*
@@ -275,13 +312,14 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=GitHub%20Analytics&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+## GitHub analytics
+
+*The grass is greener where you `git push`. Graphs are activity, not a personality test.*
 
 <div align="center">
-
 
 
 <img src="https://ghchart.rshah.org/7aa2f7/ojas2005" alt="Ojas's GitHub contribution graph" width="95%" />
@@ -309,10 +347,12 @@ Real-time traffic violation detection with an automated **digital challan** syst
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=50&text=Get%20In%20Touch&fontSize=28&fontColor=7aa2f7&animation=fadeIn" />
+## Get in touch
+
+*My inbox supports collaboration, opportunities and architecture debates. “Just one tiny feature” is rate-limited.*
 
 <img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Connect" />
 
@@ -332,6 +372,8 @@ Real-time traffic violation detection with an automated **digital challan** syst
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
 
 **If you find my work interesting, drop a ⭐ on a repo — it genuinely helps.**
+
+Stars are free. Debugging at 2 a.m. is paid for in character development.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=460&lines=Happy+Coding!;Let's+build+something+scalable." alt="Footer typing" />
 
